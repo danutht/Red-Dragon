@@ -30,7 +30,7 @@ global.ownername = '⃞🍁⃝𝗗anuth⃞🇦🇴⃞Thamodya☲⃝' //Owner Nam
 global.botname = ' ☲⃞🇦🇴⃟ᵂᴴᴵᵀᴱ⃧⃝⚈⃝𝗘𝗔𝗚𝗟𝗘⃝☫⃞🍁' //Bot Name
 
 global.button = '☰ CONTACT INBOX ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://wa.me/+940770852794' //Change Your Button's URL
+global.btnurl = 'https://wa.me/+94770852794' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
