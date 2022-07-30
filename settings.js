@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          RED DRAGON v6.0
+//          WHITE EAGLE v6.0
 //
 //════════════(00)════════════════\\
 
@@ -19,23 +19,23 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is NS Bot🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is ☲⃞🇦🇴⃟ᵂᴴᴵᵀᴱ⃧⃝⚈⃝𝗘𝗔𝗚𝗟𝗘⃝☫⃞🍁 BOT
+My Creator is ⃞🍁⃝𝗗anuth⃞🇦🇴⃞Thamodya☲⃝` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94714613443'] //Owner number in aive msg
 global.premium = ['+94714613443'] //Owner Number info
 global.ownernomer = '+94714613443' //Owner Number <<<
 
-global.ownername = '😎Danuth Thamodya' //Owner Name
-global.botname = ' ☬NS༒TUTU࿐' //Bot Name
+global.ownername = '⃞🍁⃝𝗗anuth⃞🇦🇴⃞Thamodya☲⃝' //Owner Name
+global.botname = ' ☲⃞🇦🇴⃟ᵂᴴᴵᵀᴱ⃧⃝⚈⃝𝗘𝗔𝗚𝗟𝗘⃝☫⃞🍁' //Bot Name
 
-global.button = '☰ YOUTUBE CHANEL ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/z18MS-fRpOk' //Change Your Button's URL
+global.button = '☰ CONTACT INBOX ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://wa.me/+940770852794' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☲⃞🇦🇴⃟ᵂᴴᴵᵀᴱ⃧⃝⚈⃝𝗘𝗔𝗚𝗟𝗘⃝☫⃞🍁' //Bot Pacage Name
+global.author = '⃞🍁⃝𝗗anuth⃞🇦🇴⃞Thamodya☲⃝' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -48,8 +48,8 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+    admin: 'ඇඩ්මින්ලට විතරයි බන්!😉',
+    botAdmin: 'මට ඇඩ්මින් ඔනේ...😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
